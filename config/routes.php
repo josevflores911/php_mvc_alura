@@ -10,4 +10,5 @@ return [
     'POST|/editar-video'=> \Alura\Mvc\Controller\EditVideoController::class,
     'GET|/login' =>\Alura\Mvc\Controller\LoginFormController::class,
     'POST|/login' =>\Alura\Mvc\Controller\LoginController::class,
+    'GET|/logout' =>\Alura\Mvc\Controller\LogoutController::class,
 ];

@@ -6,7 +6,7 @@
             <h2 class="formulario__titulo">Efetue login</h2>
                 <div class="formulario__campo">
                     <label class="campo__etiqueta" for="usuario">Email</label>
-                    <input name="Email" type="email" class="campo__escrita" required
+                    <input name="email" type="email" class="campo__escrita" required
                         placeholder="Digite seu usuário" id='usuario' />
                 </div>
 
